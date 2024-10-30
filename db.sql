@@ -1,4 +1,3 @@
--- Active: 1726757589722@@127.0.0.1@3306@restfulapi
 CREATE TABLE users (
     username VARCHAR(100) NOT NULL,
     password VARCHAR(100) NOT NULL,
